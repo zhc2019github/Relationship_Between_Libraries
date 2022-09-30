@@ -9,7 +9,7 @@ buildStaticA(){
     nm libstaticA.a
     cd ..
 }
-
+# this is a second test case
 buildStaticB(){
     cd funcB
     echo "Build Static B"
