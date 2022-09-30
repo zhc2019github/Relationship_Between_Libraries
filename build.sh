@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# this is a test case
 buildStaticA(){
     cd funcA
     echo "Build Static A"
