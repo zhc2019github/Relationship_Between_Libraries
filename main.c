@@ -9,6 +9,6 @@
 int main() {
   printf("main\n");
   funcB();
-
+//this is a merge test
   return 0;
 }
