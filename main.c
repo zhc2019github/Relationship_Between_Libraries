@@ -11,4 +11,5 @@ int main() {
   funcB();
 //this is a merge test
   return 0;
+  // this is a test2 rebase
 }
