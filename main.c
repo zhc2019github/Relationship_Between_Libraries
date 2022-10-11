@@ -4,6 +4,7 @@
  //
  //test merge commit second time
  //* */
+// this is master commit
 #include <stdio.h>
 #include "funcB.h"
 int main() {
