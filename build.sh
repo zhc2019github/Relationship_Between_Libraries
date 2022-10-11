@@ -1,4 +1,4 @@
-#!/bin/bash
+#ljkljlkj!/bin/bash
 # this is a test case
 buildStaticA(){
     cd funcA
